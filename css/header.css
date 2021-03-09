@@ -1,0 +1,40 @@
+.repositry-name{
+    margin-right: 20px;
+    margin-left: 80px;
+    font-size: 70px;
+    font-family: "ballpark";
+    margin-top: -37px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.list-navigation{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: 20px;
+    list-style-type: none;
+}
+.item{
+    display: flex;
+    margin-right: 15px;
+    margin-bottom: 30px;
+
+}
+.repositry-description{
+    font-size: 17px;
+}
+.repositry-image{
+    margin-top: 20px;
+    
+}
+.content{
+    flex: 1;
+}
+.navigation{
+    flex: 1;
+    margin-left: 700px;
+    margin-top: 98px;
+}
