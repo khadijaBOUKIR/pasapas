@@ -1,0 +1,49 @@
+.content-aside2{
+    border-radius: 6px;
+    background-color: grey;
+    padding-bottom: 12px;
+    padding-right: 14px;
+}
+.img-zozor{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.container-aside2{
+    flex: 1;
+    position: relative;
+    margin-right: 51px;
+}
+.img-bulle{
+    right: 290px;
+    top: 156px;
+    position: absolute;
+}
+.txt-title{
+    color: white;
+    display: flex;
+    justify-content:center;
+    font-weight: unset;
+    margin-top: 22px;
+    padding-top: 22px;
+}
+.p{
+    text-align: justify;
+}
+.p1{
+    color: white;
+    margin-right: 0px;
+    margin-left: 14px;
+    font-size: 14px;
+}
+.p2{
+    color: white;
+    margin-right: 0px;
+    margin-left: 14px;
+    font-size: 14px;
+}
+.img-5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 22px;
+}

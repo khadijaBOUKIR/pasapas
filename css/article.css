@@ -1,0 +1,23 @@
+.content-article{
+    display: flex;
+}
+.pr{
+    text-align: justify;
+    margin-right: 19px;
+    font-size: 14px;
+    margin-left: 53px;
+}
+.img2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 54px;
+    margin-top: 25px;
+}
+.div-txt{
+    margin-top: 27px;
+    margin-left: 18px;
+    font-size: 22px;
+}
+.div-img{
+    height: 55px;
+}

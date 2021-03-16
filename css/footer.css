@@ -1,0 +1,44 @@
+.container-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 49px;
+    border-top: 1px solid red;
+    padding-top: 59px;
+}
+.titlefooter-2{
+    margin-left: 28px;
+}
+.titlefooter-1{
+    margin-bottom: 15px;
+}
+.lis-2{
+    margin-top: 20px;
+    color: rgba(255, 0, 0, 0.849);
+    margin-right: 102px;
+}
+.listes-1{
+    color: rgba(255, 0, 0, 0.849);
+}
+   
+.content-footer{
+    margin-left: 57px;
+}
+.photos-listes{
+    display: flex;
+    flex-direction: row;
+}
+.imgs{
+    width: 182px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.kh1{
+    width: 40px;
+    height: 40px;
+}
+.ph-1{
+    width: 40px;
+    height: 40px;
+}
